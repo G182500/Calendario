@@ -5,6 +5,7 @@ int main(){
    //Entrada
    printf("Digite o ano:");
    scanf("%d",&ano);
+   //-----------------------------------
    //Calculos para descobrir datapascoa
    naureo=(ano%19)+1;
    sec=(ano/100)+1;
